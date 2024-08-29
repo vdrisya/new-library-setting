@@ -21,7 +21,7 @@ body {
 }
 
 .home-background {
-    background-image: url('/img/homepage.jpg');
+    background-image: url('img/homepage.jpg');
 }
 
 .books-background {
