@@ -13,11 +13,11 @@ body {
 /* Background images for different pages */
 
 .login-background {
-    background-image: url('/img/login-background.jpg');
+    background-image: url('img/login-background.jpg');
 }
 
 .signup-background {
-    background-image: url('/img/signup-backgroud.jpg');
+    background-image: url('img/signup-backgroud.jpg');
 }
 
 .home-background {
@@ -25,7 +25,7 @@ body {
 }
 
 .books-background {
-    background-image: url('/img/ai-generated-8671178_640.png');
+    background-image: url('img/ai-generated-8671178_640.png');
 }
 .card {
     background-color: rgba(255, 255, 255, 0.85);
